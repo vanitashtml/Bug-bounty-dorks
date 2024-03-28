@@ -1,4 +1,5 @@
 # Bug-bounty-dorks
+~~~
 inurl /bug bounty
 inurl : / security
 inurl:security.txt
@@ -92,3 +93,4 @@ site:*/security.txt "bounty"
 inurl:bug bounty intext:"rupees"
 inurl:bug bounty intext:"₹"
 inurl:responsible disclosure intext:"INR"
+~~~
